@@ -30,10 +30,9 @@ var funkyFunction = function() {
 //    return "FUNKY!"
 //}
 
+// var theFunkPrime = funkyFunction();
 
-var theFunkPrime = funkyFunction();
-
-var theFunk = theFunkPrime();
+// var theFunk = theFunkPrime();
 
 
 
